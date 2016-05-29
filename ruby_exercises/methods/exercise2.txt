@@ -1,0 +1,9 @@
+x = 2 # returns 2
+
+puts x = 2 # evaluates to 2, returns nil
+
+p name = "Joe" # evaluates to "Joe" and returns "Joe"
+
+four = "four" # returns "four"
+
+print something = "nothing" # evaluates to nothing and returns nil

@@ -1,0 +1,5 @@
+x = gets.chomp
+while x != "STOP"
+puts "to exit this routine enter STOP"
+ gets.chomp
+end
