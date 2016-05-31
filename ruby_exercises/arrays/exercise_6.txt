@@ -1,0 +1,7 @@
+TypeError: no implicit conversion of String into Integer
+
+means that ruby was expecting an integer in []
+
+if we assume that the purpose is to replace 'margaret' with 'jody'
+then the correct argument should be
+names[3] = 'jody' # as 'margaret' is the third string in the names array

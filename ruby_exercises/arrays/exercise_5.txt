@@ -1,0 +1,10 @@
+string = "Welcome to America!"
+
+a = "e"
+# e is the sixth character starting from 0
+
+b = "A"
+# A is the eleventh character
+
+c = nil
+# there are only 18 characters in the string
